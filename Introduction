@@ -1,0 +1,19 @@
+Domain Driven Design Distilled - Introduction
+Why should you learn DDD
+- Improve my craft
+- Increase my success on a project
+- Help your business compete at new heights
+- Model unique business needs
+- Develop software that performs at scale
+Good Versus Bad Design
+- Some use 'Task Board Shuffle'
+- Some economize with 'No Design'
+- One of scrum's most important tenent is 'Knowledge Acquisition' (Acquiring Knowdlege about business)
+Insidious problems in software Industry
+- Developers trying to throw technology at business problems.
+- Database and datamodel given priority over business process and operations.
+- Developers not placing proper emphasis in naming object and operation with business focus
+- Poor collaboration between stakeholders and developers.
+- Project estimates given too much attention causes delay in productive development
+- Wrong model abstraction leads to wrong solution.
+- Strong coupling between services makes system difficult to maintain.
