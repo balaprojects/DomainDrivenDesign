@@ -1,0 +1,13 @@
+Author: Vaughn Vernon
+
+Strategic Design Tools
+- Bounded Context
+- Ubiquitous Language
+- Context mapping
+- Sub-domains
+Tactical Design Tools
+- Aggregates - Helps in controlling transactions
+- Domain Events - Helps in modelling facts - Occurrence within a domain model
+
+Strategic design is given more significance than tactical design as tactical tools usage is limited based on the technical needs.
+DDD is about knowledge acquisition and crunching knowledge.
