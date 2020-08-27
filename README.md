@@ -1,2 +1,2 @@
 # DomainDrivenDesign
-by Vaugn Vernon
+by Vaughn Vernon
